@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyoske1&bg_color=0d1117&color=8b949e&line=8b5cf6&point=c4b5fd&area=true&hide_border=true" width="100%" alt="GitHub activity graph">
+<img src="https://streak-stats.demolab.com/?user=kiyoske1&theme=dark&hide_border=true&background=0d1117&ring=8b6cf6&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=8b949e" width="100%" alt="GitHub contribution streak">
 
 </div>
 
@@ -111,9 +111,9 @@ A local-first Windows control center I'm actively developing.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kiyoske1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e&icon_color=8b5cf6&hide_title=true&rank_icon=github" height="165" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=kiyoske1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e&icon_color=8b5cf6&hide_title=true&rank_icon=github&cache_seconds=86400" height="165" alt="GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoske1&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e" height="165" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoske1&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e&cache_seconds=86400" height="165" alt="Top languages">
 
 </div>
 

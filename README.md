@@ -36,7 +36,7 @@ I build small things to understand how they work.
 
 **Python · JavaScript · React · HTML/CSS · Git**
 
-Tiraspol, Moldova · learning by building · AI-assisted development
+`TIRASPOL` · learning by building · AI-assisted development
 
 ---
 
@@ -93,7 +93,7 @@ Nature exploration app focused on places, plants and animals.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kiyoske1/PCHelper/main/assets/pc-helper.svg" width="120" alt="PC Helper icon">
+<img src="https://raw.githubusercontent.com/kiyoske1/PCHelper/main/assets/pc-helper.svg" width="110" alt="PC Helper icon">
 
 <br>
 
@@ -111,7 +111,7 @@ A local-first Windows control center I'm actively developing.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kiyoske1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e&icon_color=8b5cf6&hide_title=true" height="165" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=kiyoske1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e&icon_color=8b5cf6&hide_title=true&rank_icon=github" height="165" alt="GitHub statistics">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoske1&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e" height="165" alt="Top languages">
 
@@ -127,7 +127,7 @@ A local-first Windows control center I'm actively developing.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="80%" alt="">
+<hr width="80%">
 
 </div>
 

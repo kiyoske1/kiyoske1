@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://i.pinimg.com/originals/fa/55/a5/fa55a52f8249d55fbcfc4d81ffe1319f.gif)" width="100%" alt="Kiyoske">
+<img src="[[https://i.pinimg.com/originals/fa/55/a5/fa55a52f8249d55fbcfc4d81ffe1319f.gif](https://i.pinimg.com/1200x/06/6f/a2/066fa2cb37aa563522fa6c1f0760d172.jpg?utm_source=chatgpt.com))" width="100%" alt="Kiyoske">
 
 <br><br>
 

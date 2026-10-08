@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250">
+<rect width="1200" height="250" rx="24" fill="#09090f"/>
+<g font-family="monospace">
+<text x="36" y="38" fill="#c9b8ff" font-size="14" letter-spacing="3">PC HELPER / ARCHITECTURE</text>
+<g fill="#11111b" stroke="#ffffff" stroke-opacity=".1">
+<rect x="36" y="78" width="190" height="105" rx="16"/><rect x="286" y="78" width="190" height="105" rx="16"/>
+<rect x="536" y="78" width="190" height="105" rx="16"/><rect x="786" y="78" width="190" height="105" rx="16"/>
+<rect x="1036" y="78" width="128" height="105" rx="16"/>
+</g>
+<g fill="#c9b8ff" font-size="15">
+<text x="62" y="112">PYTHON</text><text x="312" y="112">SERVICES</text><text x="562" y="112">UI</text><text x="812" y="112">TOOLS</text><text x="1062" y="112">EXE</text>
+</g>
+<g fill="#737386" font-size="11">
+<text x="62" y="139">core logic</text><text x="312" y="139">psutil</text><text x="562" y="139">CustomTkinter</text><text x="812" y="139">cleanup / disk</text><text x="1062" y="139">Windows</text>
+<text x="62" y="158">workers</text><text x="312" y="158">network</text><text x="562" y="158">monitor</text><text x="812" y="158">processes</text>
+</g>
+<g stroke="#8b6cff" stroke-width="2" stroke-dasharray="5 7" fill="none"><path d="M226 130H286"/><path d="M476 130H536"/><path d="M726 130H786"/><path d="M976 130H1036"/></g>
+<g fill="#8b6cff"><circle cx="256" cy="130" r="4"/><circle cx="506" cy="130" r="4"/><circle cx="756" cy="130" r="4"/><circle cx="1006" cy="130" r="4"/></g>
+</g>
+</svg>

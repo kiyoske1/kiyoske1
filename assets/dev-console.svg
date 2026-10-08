@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+<defs>
+<linearGradient id="p" x1="0" x2="1"><stop stop-color="#745cff"/><stop offset=".55" stop-color="#c8b8ff"/><stop offset="1" stop-color="#745cff"/></linearGradient>
+<pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="24" fill="#09090f"/>
+<rect width="1200" height="300" rx="24" fill="url(#g)"/>
+<rect x="24" y="24" width="1152" height="252" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
+<g font-family="monospace">
+<text x="52" y="62" fill="#c8b8ff" font-size="14" letter-spacing="3">KIYOSKE / DEV CONSOLE</text>
+<text x="52" y="90" fill="#6f6f82" font-size="11">LOCAL BUILD ENVIRONMENT</text>
+<g fill="#10101a" stroke="#fff" stroke-opacity=".08">
+<rect x="52" y="116" width="250" height="108" rx="14"/><rect x="326" y="116" width="250" height="108" rx="14"/>
+<rect x="600" y="116" width="250" height="108" rx="14"/><rect x="874" y="116" width="274" height="108" rx="14"/>
+</g>
+<g fill="#77778a" font-size="11">
+<text x="72" y="143">FOCUS</text><text x="346" y="143">BUILD</text><text x="620" y="143">STACK</text><text x="894" y="143">STATUS</text>
+</g>
+<g fill="#c8b8ff" font-size="20">
+<text x="72" y="174">PC HELPER</text><text x="346" y="174">SHIP / FIX</text><text x="620" y="174">PYTHON + JS</text><text x="894" y="174">● ONLINE</text>
+</g>
+<g fill="#77778a" font-size="10">
+<text x="72" y="201">windows utility</text><text x="346" y="201">prototype → exe</text><text x="620" y="201">react · git · css</text><text x="894" y="201">building things</text>
+</g>
+<path d="M52 248H1148" stroke="url(#p)" stroke-width="2"/>
+<circle cx="1148" cy="248" r="4" fill="#c8b8ff"/>
+</g>
+</svg>

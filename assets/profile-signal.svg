@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#6d5dfc"/><stop offset=".5" stop-color="#b79cff"/><stop offset="1" stop-color="#6d5dfc"/></linearGradient>
+  <pattern id="grid" width="48" height="32" patternUnits="userSpaceOnUse"><path d="M48 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="260" rx="24" fill="#09090f"/>
+<rect x="1" y="1" width="1198" height="258" rx="23" fill="url(#grid)" stroke="#ffffff" stroke-opacity=".08"/>
+<path d="M36 190H1164M36 130H1164M36 70H1164" stroke="#fff" stroke-opacity=".055"/>
+<path d="M36 196 C90 196 98 177 132 177 S182 190 214 156 S266 177 300 145 S354 148 388 116 S448 154 482 126 S532 91 566 120 S618 154 652 112 S710 78 742 105 S800 135 832 91 S886 112 920 68 S978 99 1012 72 S1082 85 1164 44" fill="none" stroke="url(#g)" stroke-width="4"/>
+<path d="M36 210 C120 205 168 215 246 201 S370 208 450 190 S572 201 650 178 S772 187 854 164 S1010 168 1164 142" fill="none" stroke="#fff" stroke-opacity=".14" stroke-width="2"/>
+<circle cx="1012" cy="72" r="6" fill="#c9b8ff"/><circle cx="1012" cy="72" r="15" fill="none" stroke="#c9b8ff" stroke-opacity=".22"/>
+<text x="36" y="42" fill="#c9b8ff" font-family="monospace" font-size="15" letter-spacing="3">BUILD SIGNAL / 2026</text>
+<text x="36" y="235" fill="#737386" font-family="monospace" font-size="12">IDEA</text><text x="1120" y="235" fill="#737386" font-family="monospace" font-size="12">SHIP</text>
+</svg>

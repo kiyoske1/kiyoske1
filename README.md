@@ -26,11 +26,11 @@
 
 ## about
 
-I learn by building real projects, breaking things, and figuring out how to fix them.
+I learn by building real projects, solving problems, and making each version a little better.
 
-- 🛠️ Building desktop tools and personal productivity software
-- 🌱 Learning Python, JavaScript, React, and practical software engineering
-- 🧠 Interested in clean interfaces, useful automation, and local-first apps
+- 🛠️ Building desktop software and web projects
+- 🧩 Interested in clean UI, automation, and local-first apps
+- 🌱 Learning through shipping, debugging, and improving real code
 - 📍 Tiraspol · AI-assisted development
 
 ## selected work
@@ -41,11 +41,11 @@ I learn by building real projects, breaking things, and figuring out how to fix 
 
 ### NEXUS
 
-Personal command center for quests, habits, focus sessions, finance, journaling, and insights.
+A personal command center for quests, habits, focus, finance, notes, and progress. Designed to grow from a local desktop app toward secure cloud sync.
 
-`Python` · `PySide6` · `SQLite`
+`Python` · `PySide6` · `SQLite` · `PostgreSQL`
 
-**in active development**
+**active development**
 
 [explore NEXUS →](https://github.com/kiyoske1/NEXUS)
 
@@ -54,11 +54,11 @@ Personal command center for quests, habits, focus sessions, finance, journaling,
 
 ### PC Helper
 
-A Windows utility for monitoring and managing a PC, with practical system tools.
+A Windows control center for system monitoring, process management, disk analysis, cleanup, network diagnostics, and handy tools.
 
 `Python` · `CustomTkinter` · `psutil`
 
-**in development**
+**active development**
 
 [explore PC Helper →](https://github.com/kiyoske1/PCHelper)
 
@@ -69,22 +69,22 @@ A Windows utility for monitoring and managing a PC, with practical system tools.
 
 ### WildQuest
 
-A nature exploration project focused on discovering places, plants, and animals.
+A nature exploration project for discovering places, plants, and animals, with a focus on maps and visual discovery.
 
 `React` · `Vite` · `JavaScript`
 
-**building**
+**in progress**
 
 [explore WildQuest →](https://github.com/kiyoske1/WildQuest)
 
 </td>
 <td width="50%" valign="top">
 
-### What I like building
+### Current focus
 
-Useful software with a clear purpose, thoughtful UI, and details that make everyday workflows feel better.
+Building more reliable apps: better architecture, useful features, cleaner interfaces, and fewer bugs. I use AI as a development tool, then work to understand and improve the result.
 
-`desktop apps` · `web projects` · `automation`
+`desktop apps` · `web apps` · `debugging`
 
 </td>
 </tr>

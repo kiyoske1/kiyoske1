@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f17,50:302b63,100:5f4b8b&height=220&section=header&text=KIYOSKE&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=developer%20%7C%20creator%20%7C%20builder&descAlignY=58&descSize=18">
+<img src="https://raw.githubusercontent.com/kiyoske1/kiyoske1/main/assets/lain-banner.svg" width="100%" alt="Kiyoske cyber anime banner">
 
-# 🖥️ KIYOSKE
+# KIYOSKE
 
 ### `developer • creator • builder`
 
 **code never sleeps.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-kiyoske1-181717?style=for-the-badge&logo=github)](https://github.com/kiyoske1)
-[![CheckMyGit](https://img.shields.io/badge/CheckMyGit-profile-7c3aed?style=for-the-badge)](https://checkmygit.com/kiyoske1)
+[![GitHub](https://img.shields.io/badge/GitHub-kiyoske1-111117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiyoske1)
+[![CheckMyGit](https://img.shields.io/badge/CheckMyGit-profile-7c6cff?style=for-the-badge)](https://checkmygit.com/kiyoske1)
 
 </div>
 
@@ -17,37 +17,34 @@
 
 <div align="center">
 
-> `turning random ideas into working projects.`
+> `somewhere between the machine and the idea, something starts to work.`
 
 </div>
 
-## 👨‍💻 ABOUT ME
+## 🕸️ ABOUT ME
 
 ```text
 name      → Vova / Kiyoske
 age       → 20
 location  → Tiraspol
-focus     → Web Development + AI
+focus     → Web Development + Python + AI
 
-I like building things from scratch,
-breaking them,
-fixing them,
-and figuring out how they actually work.
+I build things, break things, debug things,
+and slowly figure out how they actually work.
 
-Currently exploring:
-→ Frontend development
-→ Backend development
+currently:
+→ Web Development
+→ Python
 → AI-assisted development
 → Vibe coding
-→ APIs
-→ Databases
+→ APIs & databases
 → Git & GitHub
-→ Software architecture
+→ Desktop applications
 ```
 
 ---
 
-## ⚡ TECH STACK
+## ⚡ STACK
 
 <div align="center">
 
@@ -66,41 +63,34 @@ Currently exploring:
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🚀 PROJECTS
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌿 WildQuest
+### 🛠️ PC Helper
 
-Nature exploration application.
+Windows utility for monitoring, cleanup, networking, process management and disk analysis.
 
-A gamified ecosystem for discovering
-plants, animals and interesting places.
+**Python · CustomTkinter · psutil**
 
-**Stack**
-
-`React` `Vite` `Tailwind` `JavaScript`
-
-<a href="https://github.com/kiyoske1/WildQuest">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7c3aed?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/kiyoske1/PCHelper">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7c6cff?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
-
 <td width="50%">
 
-### 📚 BookReader
+### 🌿 WildQuest
 
-A digital reader built around
-page images instead of traditional text.
+Nature exploration application built around discovering places, plants and animals.
 
-Designed for both PC and mobile.
+**React · Vite · JavaScript**
 
-**Stack**
-
-`HTML` `CSS` `JavaScript`
+<a href="https://github.com/kiyoske1/WildQuest">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7c6cff?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 </tr>
@@ -108,31 +98,20 @@ Designed for both PC and mobile.
 <tr>
 <td width="50%">
 
-### 🛠️ PC Helper
+### 📚 BookReader
 
-A collection of tools for
-Windows users and PC maintenance.
+Experimental digital reader where book pages are displayed as images.
 
-**Stack**
-
-`Python` `Windows` `Automation`
-
-<a href="https://github.com/kiyoske1/PCHelper">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7c3aed?style=for-the-badge&logo=github&logoColor=white">
-</a>
+**HTML · CSS · JavaScript**
 
 </td>
-
 <td width="50%">
 
 ### 🎮 Dota Analyzer
 
-Experimental project for
-Dota statistics and game analysis.
+Experimental project for game statistics, data and match analysis.
 
-**Stack**
-
-`JavaScript` `APIs` `Data`
+**JavaScript · APIs · Data**
 
 </td>
 </tr>
@@ -143,109 +122,91 @@ Dota statistics and game analysis.
 ## 🤖 AI × DEVELOPMENT
 
 ```text
-              ┌─────────────┐
-              │    IDEA     │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │     AI      │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    CODE     │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    BREAK    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    DEBUG    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    LEARN    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    SHIP     │
-              └─────────────┘
+             ┌─────────────┐
+             │    IDEA     │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │     AI      │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │    CODE     │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │    BREAK    │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │    DEBUG    │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │    LEARN    │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │    SHIP     │
+             └─────────────┘
 ```
 
-I use AI as a development tool to:
+I use AI to prototype faster, explore unfamiliar technologies, debug problems and turn ideas into working software.
 
-- prototype ideas faster
-- explore unfamiliar technologies
-- understand code
-- debug problems
-- experiment with architecture
-- turn concepts into working projects
-
-**AI writes code.  
-I decide what to build.**
+**AI can write the code. I decide what to build.**
 
 ---
 
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kiyoske1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoske1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF">
-
-</div>
-
----
-
-## 🔥 STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kiyoske1&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=FFFFFF">
-
-</div>
-
----
-
-## 🎯 CURRENTLY LEARNING
+## 📡 CURRENT SIGNAL
 
 ```text
 JavaScript       ███████████████░░░░░
-Python           ████████████░░░░░░░░
+Python           █████████████░░░░░░░
 React            ██████████░░░░░░░░░░
 Node.js          ███████░░░░░░░░░░░░░
 PostgreSQL       █████░░░░░░░░░░░░░░░
 Backend          █████░░░░░░░░░░░░░░░
-Git / GitHub     █████████████░░░░░░░
+Git / GitHub     ██████████████░░░░░░
 ```
 
 ---
 
-## 🌱 CURRENTLY BUILDING
+## 🌐 CURRENTLY BUILDING
 
-### `WildQuest`
+### `PC Helper`
+
+A real Windows desktop utility rather than another tutorial project.
 
 ```text
-frontend
-   ↓
-API
-   ↓
-backend
-   ↓
-database
-   ↓
-real users
-   ↓
-real product
+idea
+ ↓
+prototype
+ ↓
+code
+ ↓
+tests
+ ↓
+build
+ ↓
+.exe
+ ↓
+release
 ```
 
-The goal is to turn the current frontend prototype
-into a real full-stack application.
+Current focus:
+
+- system monitoring
+- process management
+- disk analysis
+- network diagnostics
+- Windows tools
+- safe cleanup
+- automated builds
+- GitHub releases
 
 ---
 
-## 🧠 DEVELOPMENT PHILOSOPHY
+## 🧠 PHILOSOPHY
 
 ```text
 Don't just copy the code.
@@ -274,14 +235,14 @@ SHIP
 repeat.
 ```
 
-### `⌁ code never sleeps ⌁`
+### `⌁ THE WIRED IS ALWAYS ON ⌁`
 
 **watch → build → debug → execute**
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-kiyoske1-black?style=for-the-badge&logo=github)](https://github.com/kiyoske1)
-[![CheckMyGit](https://img.shields.io/badge/CheckMyGit-Profile-7c3aed?style=for-the-badge)](https://checkmygit.com/kiyoske1)
+[![CheckMyGit](https://img.shields.io/badge/CheckMyGit-Profile-7c6cff?style=for-the-badge)](https://checkmygit.com/kiyoske1)
 
 </div>
 
@@ -289,6 +250,6 @@ repeat.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5f4b8b,50:302b63,100:0f0f17&height=120&section=footer">
+<sub>KIYOSKE · 2026 · connected to the machine</sub>
 
 </div>

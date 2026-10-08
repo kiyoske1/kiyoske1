@@ -118,6 +118,8 @@ Windows users and PC maintenance.
 `Python` `Windows` `Automation`
 
 <a href="https://github.com/kiyoske1/PCHelper">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7c3aed?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 

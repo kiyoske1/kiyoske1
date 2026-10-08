@@ -6,203 +6,111 @@
 
 # KIYOSKE
 
-### VOVA • DEVELOPER • BUILDER
+`developer · builder · learner`
 
-`WEB` · `PYTHON` · `AI` · `DESKTOP`
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiyoske1)
-[![PC Helper](https://img.shields.io/badge/PC_HELPER-6f5cff?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/kiyoske1/PCHelper)
-[![WildQuest](https://img.shields.io/badge/WILDQUEST-222222?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/kiyoske1/WildQuest)
+**Vova**
 
 <br>
 
-`BUILD / BREAK / FIX / REPEAT`
-
-</div>
-
----
-
-## `01` / PROFILE
-
-> **I build things because I want to know how they work.**
-
-I'm **Vova**, online as **Kiyoske**.
-
-I learn by building real projects, breaking them, debugging them and shipping the result. AI helps me move faster, but the project is still mine.
-
-**Based in Tiraspol · focused on development**
-
----
-
-## `02` / TOOLBOX
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,nodejs,git,github,vscode&perline=10" alt="HTML CSS JavaScript Python React Vite Node.js Git GitHub VS Code">
+[GitHub](https://github.com/kiyoske1) · [PC Helper](https://github.com/kiyoske1/PCHelper) · [WildQuest](https://github.com/kiyoske1/WildQuest)
 
 <br><br>
 
-`HTML / CSS / JavaScript`  
-`Python / CustomTkinter / psutil`  
-`React / Vite / Node.js`  
-`Git / GitHub / VS Code`
+*build quietly. ship things.*
 
 </div>
 
 ---
 
-## `03` / FEATURED PROJECTS
+## about
 
-### 🖥️ PC HELPER
+I build small things to understand how they work.
 
-**A local-first Windows control center.**
+**Python · JavaScript · React · HTML/CSS · Git**
 
-Live system monitoring, process management, disk analysis, network diagnostics, Windows tools, cleanup utilities and automated tests.
-
-`PYTHON` `CUSTOMTKINTER` `PSUTIL`
-
-**STATUS:** `ACTIVE`
-
-[→ Open repository](https://github.com/kiyoske1/PCHelper)
+Tiraspol, Moldova · learning by building · AI-assisted development
 
 ---
 
-### 🌿 WILDQUEST
+## selected work
 
-**A nature exploration application.**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A project built around discovering interesting places, plants and animals with a modern web interface.
+### PC Helper
 
-`REACT` `VITE` `JAVASCRIPT`
+Windows utility for monitoring and managing a PC.
 
-**STATUS:** `BUILDING`
+`Python` · `CustomTkinter` · `psutil`
 
-[→ Open repository](https://github.com/kiyoske1/WildQuest)
+**active**
 
----
+[view project →](https://github.com/kiyoske1/PCHelper)
 
-### 📚 BOOKREADER
+</td>
+<td width="50%" valign="top">
 
-**A digital reader built around real page images.**
+### WildQuest
 
-Designed to make image-based books comfortable to read on both desktop and mobile.
+Nature exploration app focused on places, plants and animals.
 
-`HTML` `CSS` `JAVASCRIPT`
+`React` · `Vite` · `JavaScript`
 
-**STATUS:** `EXPERIMENTAL`
+**building**
 
----
+[view project →](https://github.com/kiyoske1/WildQuest)
 
-### 🎮 DOTA ANALYZER
-
-**A game-data playground.**
-
-Experiments with statistics, APIs and match analysis.
-
-`JAVASCRIPT` `APIS` `DATA`
-
-**STATUS:** `EXPERIMENTAL`
+</td>
+</tr>
+</table>
 
 ---
 
-## `04` / PC HELPER
+## stack
 
 <div align="center">
 
-### `IDEA → CODE → TEST → BUILD → EXE`
-
-</div>
-
-```text
-SYSTEM MONITOR       ██████████████████  DONE
-PROCESS MANAGER      ██████████████████  DONE
-DISK ANALYZER        ██████████████████  DONE
-NETWORK TOOLS        ██████████████████  DONE
-WINDOWS TOOLS        ██████████████████  DONE
-SAFE CLEANUP         ██████████████████  DONE
-AUTOMATED TESTS      ██████████████████  DONE
-WINDOWS BUILD        ██████████████████  DONE
-
-NEXT                 → performance / polish / new tools
-```
-
-[→ View PC Helper](https://github.com/kiyoske1/PCHelper)
-
----
-
-## `05` / HOW I BUILD
-
-<div align="center">
-
-`IDEA`
-↓
-`AI`
-↓
-`PROTOTYPE`
-↓
-`DEBUG`
-↓
-`UNDERSTAND`
-↓
-`SHIP`
-
-</div>
-
-AI is part of my development workflow for prototyping, debugging, research and exploration.
-
-> **The AI writes code. I own the project.**
-
----
-
-## `06` / CURRENT MODE
-
-```text
-[ ONLINE ]
-
-BUILDING        ████████████████████
-LEARNING        ████████████████████
-DEBUGGING       ████████████████████
-EXPERIMENTING   ████████████████████
-SHIPPING        ████████████████████
-```
-
----
-
-## `07` / THE RULE
-
-<div align="center">
-
-### **BUILD. BREAK. FIX. REPEAT.**
-
-```text
-copy
-  ↓
-understand
-  ↓
-change
-  ↓
-break
-  ↓
-fix
-  ↓
-make it yours
-```
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,nodejs,git,github,vscode&perline=10" alt="Tech stack">
 
 </div>
 
 ---
 
+## pc helper
+
 <div align="center">
 
-### `⌁ THE WIRED IS ALWAYS ON ⌁`
+`monitor` · `processes` · `disk` · `network` · `windows tools` · `cleanup`
 
-`watch / build / debug / execute`
+**idea → code → test → build → exe**
+
+</div>
+
+A local-first Windows control center I'm actively developing.
+
+---
+
+## workflow
+
+<div align="center">
+
+`idea` → `prototype` → `debug` → `understand` → `ship`
+
+</div>
+
+AI is part of the workflow.  
+The goal is not to generate code. The goal is to understand it well enough to make it mine.
+
+---
+
+<div align="center">
+
+### BUILD. BREAK. FIX. REPEAT.
 
 <br>
 
-[![KIYOSKE](https://img.shields.io/badge/KIYOSKE-GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiyoske1)
+`watch / build / debug / execute`
 
 <br><br>
 

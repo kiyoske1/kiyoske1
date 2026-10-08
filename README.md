@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/06/6f/a2/066fa2cb37aa563522fa6c1f0760d172.jpg" width="100%" alt="Kiyoske banner">
+<img src="https://i.pinimg.com/1200x/06/6f/a2/066fa2cb37aa563522fa6c1f0760d172.jpg" width="100%" alt="KIYOSKE visual banner">
 
 <br>
 
@@ -8,11 +8,11 @@
 
 `developer` · `builder` · `learner`
 
-**VOVA / 20**
+**VOVA**
 
 <br>
 
-`PYTHON`  `JAVASCRIPT`  `REACT`  `WINDOWS`
+`PYTHON` · `JAVASCRIPT` · `REACT` · `WINDOWS`
 
 <br><br>
 
@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-<img src="assets/profile-signal.svg" width="100%" alt="Build signal graph">
+<img src="https://raw.githubusercontent.com/kiyoske1/kiyoske1/main/assets/dev-console.svg" width="100%" alt="Kiyoske developer console">
 </div>
 
 ---
@@ -36,7 +36,7 @@
 
 > I build small things to understand how they work.
 
-**Python · JavaScript · React · HTML/CSS · Git**
+`PYTHON` `JAVASCRIPT` `REACT` `HTML/CSS` `GIT`
 
 `TIRASPOL` · `AI-ASSISTED DEVELOPMENT` · `LEARNING BY BUILDING`
 
@@ -49,10 +49,9 @@
 <td width="50%" valign="top">
 
 ### 01 / PC Helper
-
 **Windows control center**
 
-Live monitoring, processes, disk analysis, network diagnostics, cleanup and Windows tools.
+Live monitoring, process management, disk analysis, network diagnostics, cleanup and Windows tools.
 
 `Python` `CustomTkinter` `psutil`
 
@@ -64,7 +63,6 @@ Live monitoring, processes, disk analysis, network diagnostics, cleanup and Wind
 <td width="50%" valign="top">
 
 ### 02 / WildQuest
-
 **Nature exploration app**
 
 Places, plants and animals with a visual, map-first experience.
@@ -81,26 +79,12 @@ Places, plants and animals with a visual, map-first experience.
 
 ---
 
-## / stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,nodejs,git,github,vscode&perline=10" alt="Tech stack">
-
-<br><br>
-
-`PYTHON` · `JS` · `REACT` · `HTML/CSS` · `GIT` · `VSCODE`
-
-</div>
-
----
-
 ## / pc helper
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kiyoske1/PCHelper/main/assets/pc-helper.svg" width="110" alt="PC Helper icon">
+<img src="https://raw.githubusercontent.com/kiyoske1/PCHelper/main/assets/pc-helper.svg" width="96" alt="PC Helper icon">
 <br><br>
-<img src="assets/pc-helper-architecture.svg" width="100%" alt="PC Helper architecture">
+<img src="https://raw.githubusercontent.com/kiyoske1/kiyoske1/main/assets/pc-helper-architecture.svg" width="100%" alt="PC Helper architecture">
 </div>
 
 `MONITOR` · `PROCESSES` · `DISK` · `NETWORK` · `WINDOWS TOOLS` · `CLEANUP`
@@ -109,17 +93,23 @@ Places, plants and animals with a visual, map-first experience.
 
 ---
 
+## / stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,nodejs,git,github,vscode&perline=10" alt="Technology stack">
+<br><br>
+`PYTHON` · `JS` · `REACT` · `HTML/CSS` · `GIT` · `VSCODE`
+</div>
+
+---
+
 ## / github
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=kiyoske1&show_icons=true&hide_border=true&bg_color=09090f&title_color=c9b8ff&text_color=8b8b9d&icon_color=8b6cff&hide_title=true&rank_icon=github" height="165" alt="GitHub statistics">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoske1&layout=compact&hide_border=true&bg_color=09090f&title_color=c9b8ff&text_color=8b8b9d" height="165" alt="Top languages">
-
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyoske1&bg_color=09090f&color=8b8b9d&line=8b6cff&point=c9b8ff&area=true&hide_border=true" width="100%" alt="GitHub activity">
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyoske1&bg_color=09090f&color=8b8b9d&line=8b6cff&point=c9b8ff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph">
 </div>
 
 ---

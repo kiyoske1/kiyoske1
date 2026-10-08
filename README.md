@@ -1,18 +1,22 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/06/6f/a2/066fa2cb37aa563522fa6c1f0760d172.jpg" width="100%" alt="Kiyoske">
-
-<br><br>
-
-# KIYOSKE
-
-`developer · builder · learner`
-
-**Vova**
+<img src="https://i.pinimg.com/1200x/06/6f/a2/066fa2cb37aa563522fa6c1f0760d172.jpg" width="100%" alt="Kiyoske banner">
 
 <br>
 
-[GitHub](https://github.com/kiyoske1) · [PC Helper](https://github.com/kiyoske1/PCHelper) · [WildQuest](https://github.com/kiyoske1/WildQuest)
+# KIYOSKE
+
+`developer` · `builder` · `learner`
+
+**VOVA / 20**
+
+<br>
+
+`PYTHON`  `JAVASCRIPT`  `REACT`  `WINDOWS`
+
+<br><br>
+
+[GITHUB](https://github.com/kiyoske1) · [PC HELPER](https://github.com/kiyoske1/PCHelper) · [WILDQUEST](https://github.com/kiyoske1/WildQuest)
 
 <br><br>
 
@@ -23,51 +27,53 @@
 ---
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyoske1&bg_color=0d1117&color=8b949e&line=8b5cf6&point=c4b5fd&area=true&hide_border=true" width="100%" alt="GitHub activity graph">
-
+<img src="assets/profile-signal.svg" width="100%" alt="Build signal graph">
 </div>
 
 ---
 
-## about
+## / about
 
-I build small things to understand how they work.
+> I build small things to understand how they work.
 
 **Python · JavaScript · React · HTML/CSS · Git**
 
-Tiraspol, Moldova · learning by building · AI-assisted development
+`TIRASPOL` · `AI-ASSISTED DEVELOPMENT` · `LEARNING BY BUILDING`
 
 ---
 
-## selected work
+## / selected work
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### PC Helper
+### 01 / PC Helper
 
-Windows utility for monitoring and managing a PC.
+**Windows control center**
 
-`Python` · `CustomTkinter` · `psutil`
+Live monitoring, processes, disk analysis, network diagnostics, cleanup and Windows tools.
 
-**active**
+`Python` `CustomTkinter` `psutil`
 
-[view project →](https://github.com/kiyoske1/PCHelper)
+**● ACTIVE**
+
+[open repository →](https://github.com/kiyoske1/PCHelper)
 
 </td>
 <td width="50%" valign="top">
 
-### WildQuest
+### 02 / WildQuest
 
-Nature exploration app focused on places, plants and animals.
+**Nature exploration app**
 
-`React` · `Vite` · `JavaScript`
+Places, plants and animals with a visual, map-first experience.
 
-**building**
+`React` `Vite` `JavaScript`
 
-[view project →](https://github.com/kiyoske1/WildQuest)
+**○ BUILDING**
+
+[open repository →](https://github.com/kiyoske1/WildQuest)
 
 </td>
 </tr>
@@ -75,7 +81,7 @@ Nature exploration app focused on places, plants and animals.
 
 ---
 
-## stack
+## / stack
 
 <div align="center">
 
@@ -83,69 +89,51 @@ Nature exploration app focused on places, plants and animals.
 
 <br><br>
 
-`python` · `javascript` · `react` · `html/css` · `git`
+`PYTHON` · `JS` · `REACT` · `HTML/CSS` · `GIT` · `VSCODE`
 
 </div>
 
 ---
 
-## pc helper
+## / pc helper
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kiyoske1/PCHelper/main/assets/pc-helper.svg" width="110" alt="PC Helper icon">
+<br><br>
+<img src="assets/pc-helper-architecture.svg" width="100%" alt="PC Helper architecture">
+</div>
+
+`MONITOR` · `PROCESSES` · `DISK` · `NETWORK` · `WINDOWS TOOLS` · `CLEANUP`
+
+**idea → prototype → debug → understand → ship**
+
+---
+
+## / github
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kiyoske1/PCHelper/main/assets/pc-helper.svg" width="120" alt="PC Helper icon">
+<img src="https://github-readme-stats.vercel.app/api?username=kiyoske1&show_icons=true&hide_border=true&bg_color=09090f&title_color=c9b8ff&text_color=8b8b9d&icon_color=8b6cff&hide_title=true&rank_icon=github" height="165" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoske1&layout=compact&hide_border=true&bg_color=09090f&title_color=c9b8ff&text_color=8b8b9d" height="165" alt="Top languages">
+
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyoske1&bg_color=09090f&color=8b8b9d&line=8b6cff&point=c9b8ff&area=true&hide_border=true" width="100%" alt="GitHub activity">
+
+</div>
+
+---
+
+<div align="center">
+
+### BUILD / BREAK / FIX / REPEAT
 
 <br>
 
-`monitor` · `processes` · `disk` · `network` · `windows tools` · `cleanup`
-
-**idea → code → test → build → exe**
-
-</div>
-
-A local-first Windows control center I'm actively developing.
-
----
-
-## activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kiyoske1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e&icon_color=8b5cf6&hide_title=true" height="165" alt="GitHub statistics">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoske1&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e" height="165" alt="Top languages">
-
-</div>
-
----
-
-## workflow
-
-<div align="center">
-
-`idea` → `prototype` → `debug` → `understand` → `ship`
+`watch` / `build` / `debug` / `execute`
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="80%" alt="">
-
-</div>
-
-AI is part of the workflow.  
-The goal is not to generate code. The goal is to understand it well enough to make it mine.
-
----
-
-<div align="center">
-
-### BUILD. BREAK. FIX. REPEAT.
-
-<br>
-
-`watch / build / debug / execute`
-
-<br><br>
-
-<sub>KIYOSKE · 2026</sub>
+<sub>KIYOSKE · 2026 · <a href="https://github.com/kiyoske1">github.com/kiyoske1</a></sub>
 
 </div>

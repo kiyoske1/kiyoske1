@@ -22,6 +22,14 @@
 
 ---
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyoske1&bg_color=0d1117&color=8b949e&line=8b5cf6&point=c4b5fd&area=true&hide_border=true" width="100%" alt="GitHub activity graph">
+
+</div>
+
+---
+
 ## about
 
 I build small things to understand how they work.
@@ -73,6 +81,10 @@ Nature exploration app focused on places, plants and animals.
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,nodejs,git,github,vscode&perline=10" alt="Tech stack">
 
+<br><br>
+
+`python` · `javascript` · `react` · `html/css` · `git`
+
 </div>
 
 ---
@@ -80,6 +92,10 @@ Nature exploration app focused on places, plants and animals.
 ## pc helper
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/kiyoske1/PCHelper/main/assets/pc-helper.svg" width="120" alt="PC Helper icon">
+
+<br>
 
 `monitor` · `processes` · `disk` · `network` · `windows tools` · `cleanup`
 
@@ -91,11 +107,27 @@ A local-first Windows control center I'm actively developing.
 
 ---
 
+## activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kiyoske1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e&icon_color=8b5cf6&hide_title=true" height="165" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoske1&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=8b949e" height="165" alt="Top languages">
+
+</div>
+
+---
+
 ## workflow
 
 <div align="center">
 
 `idea` → `prototype` → `debug` → `understand` → `ship`
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="80%" alt="">
 
 </div>
 
